@@ -1,8 +1,5 @@
 <template>
     <el-container>
-      <el-header>
-      <Navbar/>
-      </el-header>
       <el-main>
         <Carousel/>
         <CompanyCard/>
