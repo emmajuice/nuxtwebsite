@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7201bd5-7433-4137-bd35-584c4b2d4a2c" name="Default Changelist" comment="Common Component finished">
-      <change afterPath="$PROJECT_DIR$/assets/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/22@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/23@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/code 16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/code@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo_uz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo_uz@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/name.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/name@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tb3 鎷疯礉.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tb3 鎷疯礉@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/组 9@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/鐭╁舰 14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/鐭╁舰 14@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/鐭╁舰 17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/鐭╁舰 17@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/鐭╁舰 18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/鐭╁舰 18@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/閫忔槑 鎷疯礉.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/閫忔槑 鎷疯礉@2x.png" afterDir="false" />
+    <list default="true" id="b7201bd5-7433-4137-bd35-584c4b2d4a2c" name="Default Changelist" comment=" 1111">
       <change afterPath="$PROJECT_DIR$/components/home/Aboutus.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/home/Carousel.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/home/CompanyCard.vue" afterDir="false" />
@@ -110,14 +86,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="5" />
-          <entry key="txt" value="27" />
+          <entry key="txt" value="32" />
           <entry key="vue" value="961" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="5" />
-          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="PLAIN_TEXT" value="32" />
           <entry key="Vue.js" value="961" />
         </counts>
       </usages-collector>
@@ -233,8 +209,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/huichebang/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="65" column="17" lean-forward="true" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+            <state relative-caret-position="78">
+              <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="16" />
               <folding>
                 <element signature="e#64#122#0" expanded="true" />
               </folding>
@@ -429,7 +405,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574068504787</updated>
       <workItem from="1574068506361" duration="59640000" />
-      <workItem from="1574305047331" duration="16493000" />
+      <workItem from="1574305047331" duration="17964000" />
     </task>
     <task id="LOCAL-00001" summary="Common Component finished">
       <created>1574306183139</created>
@@ -452,11 +428,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574306718236</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" 1111">
+      <created>1574386668368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574386668369</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76133000" />
+    <option name="totallyTimeSpent" value="77604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="315" y="13" width="1600" height="1027" extended-state="0" />
@@ -512,7 +495,8 @@
     <MESSAGE value="frist Page" />
     <MESSAGE value="frist Page12122" />
     <MESSAGE value="Common Component finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Common Component finished" />
+    <MESSAGE value=" 1111" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 1111" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -727,8 +711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/huichebang/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="65" column="17" lean-forward="true" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        <state relative-caret-position="78">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="16" />
           <folding>
             <element signature="e#64#122#0" expanded="true" />
           </folding>

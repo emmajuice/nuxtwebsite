@@ -5,11 +5,17 @@
         <img class="logoName" src="../../assets/images/name@2x.png"/>
       </div>
       <el-menu id="menu-box" :default-active="activeIndex" class="el-menu-demo" mode="horizontal"  @select="handleSelect">
-        <el-menu-item index="1">首页</el-menu-item>
+
+        <el-menu-item index="1">
+          <nuxt-link to="/">首页</nuxt-link>
+        </el-menu-item>
         <el-submenu index="2">
           <template slot="title">产品介绍</template>
-          <el-menu-item index="2-1">刷脸支付</el-menu-item>
-          <el-menu-item index="2-2">App开发</el-menu-item>
+          <el-menu-item index="2-1">
+            <nuxt-link to="/facepay">刷脸支付</nuxt-link>
+          </el-menu-item>
+          <nuxt-link to="/huichebang">
+            <el-menu-item index="2-2">App开发</el-menu-item></nuxt-link>
         </el-submenu>
         <el-submenu index="3">
           <template slot="title">企业介绍</template>
