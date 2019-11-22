@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7201bd5-7433-4137-bd35-584c4b2d4a2c" name="Default Changelist" comment=" 1111">
+    <list default="true" id="b7201bd5-7433-4137-bd35-584c4b2d4a2c" name="Default Changelist" comment=" 11112">
       <change afterPath="$PROJECT_DIR$/components/home/Aboutus.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/home/Carousel.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/home/CompanyCard.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/home/Enterprise-1.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/home/case.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/full.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/huichebang.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pages/huichebang/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/common/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/Navbar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -86,14 +81,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="5" />
-          <entry key="txt" value="32" />
+          <entry key="txt" value="38" />
           <entry key="vue" value="961" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="5" />
-          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="PLAIN_TEXT" value="38" />
           <entry key="Vue.js" value="961" />
         </counts>
       </usages-collector>
@@ -405,7 +400,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574068504787</updated>
       <workItem from="1574068506361" duration="59640000" />
-      <workItem from="1574305047331" duration="17964000" />
+      <workItem from="1574305047331" duration="18207000" />
     </task>
     <task id="LOCAL-00001" summary="Common Component finished">
       <created>1574306183139</created>
@@ -435,11 +430,25 @@
       <option name="project" value="LOCAL" />
       <updated>1574386668369</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" 33&#10; 33">
+      <created>1574386875014</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574386875014</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" 11112">
+      <created>1574386902785</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574386902785</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77604000" />
+    <option name="totallyTimeSpent" value="77847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="315" y="13" width="1600" height="1027" extended-state="0" />
@@ -496,7 +505,9 @@
     <MESSAGE value="frist Page12122" />
     <MESSAGE value="Common Component finished" />
     <MESSAGE value=" 1111" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 1111" />
+    <MESSAGE value=" 33&#10; 33" />
+    <MESSAGE value=" 11112" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 11112" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
